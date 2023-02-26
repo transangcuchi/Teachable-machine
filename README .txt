@@ -9,3 +9,6 @@ opencv
     pip install opencv-python
 numpy
     ip install numpy
+TensorFlow
+pip install tensorflow
+

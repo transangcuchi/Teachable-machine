@@ -1,5 +1,7 @@
-0 background
-1 phone
-2 notebook
-3 pen
-4 Sang
+0 sang
+1 Phone
+2 cap
+3 mask
+4 NoteBook
+5 Pen
+6 Mouse

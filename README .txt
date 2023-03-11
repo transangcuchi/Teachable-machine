@@ -10,5 +10,5 @@ opencv
 numpy
     pip install numpy
 TensorFlow
-pip install tensorflow
+    pip install tensorflow
 
